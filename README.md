@@ -19,7 +19,10 @@ Brownian motion
   
 ### HW1 Random walk
 
-### 0928
+### 0928 : Ito's Lemma
+Ito's integra  
+Ito's Lemma  
+Intro of Samuelson, Merton, Black-Scholes model
 
 ### Reference
 
