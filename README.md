@@ -11,12 +11,12 @@ Important Theorem
   3. Fatou's Lemma  
 
 Differentiation
-
+  
 ### 0921 : Basic of stochastic process 
-Stochastic process
-Conditional expectation
-Brownian motion
-
+Stochastic process  
+Conditional expectation  
+Brownian motion  
+  
 ### HW1 Random walk
 
 ### 0928
