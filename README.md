@@ -2,6 +2,7 @@
 Stochastic Calculus in Ajou University  by Professor Koo  
 
 ### 0914 : Basic of stochastic
+---  
 Random variable  
 Measure space  
 Expectation  
@@ -11,12 +12,12 @@ Important Theorem
   3. Fatou's Lemma  
 
 Differentiation
-  
+   
 ### 0921 : Basic of stochastic process 
 Stochastic process  
 Conditional expectation  
 Brownian motion  
-  
+   
 ### HW1 Random walk
 Draw Random walk
 
