@@ -35,7 +35,7 @@ Example2 of Ito's lemma
 Heuristic Deviation of Ito's lemma  
 General Ito's Integral  
 General Ito's Lemma  
-The Black Scholes Model - Deviation using non-arbitrage principle  
+The Black Scholes Model - Derivation using non-arbitrage principle  
 
 ### 1019 : Intro of a Perpetual American Put Option
 Intro of a perpetual American Put Option
@@ -43,6 +43,8 @@ Intro of a perpetual American Put Option
 ### 1116 : The Merton Model
 Lifetime portfolio selection under uncertainty the continuous-time case - Merton (1969)
 
+### 1123 : The Black Scholes Model
+The Black Scholes Model with the Merton Model
 
 ### Reference
 Stochastic Calculus for Finance 1: The Binomial Asset Pricing Model - Shreve, Steven E. (2004)  
