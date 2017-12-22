@@ -40,8 +40,10 @@ The Black Scholes Model - Deviation using non-arbitrage principle
 ### 1019 : Intro of a Perpetual American Put Option
 Intro of a perpetual American Put Option
 
+### 1116 : The Merton Model
+Lifetime portfolio selection under uncertainty the continuous-time case - Merton (1969)
+
+
 ### Reference
-
-Stochastic Calculus for Finance 1: The Binomial Asset Pricing Model, Shreve, Steven E., 2004
-
-Stochastic Calculus for Finance 2: Continuous-Time Models, Shreve, Steven E., 2004
+Stochastic Calculus for Finance 1: The Binomial Asset Pricing Model - Shreve, Steven E. (2004)  
+Stochastic Calculus for Finance 2: Continuous-Time Models - Shreve, Steven E. (2004)
