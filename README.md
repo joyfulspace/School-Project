@@ -18,6 +18,7 @@ Conditional expectation
 Brownian motion  
   
 ### HW1 Random walk
+Draw Random walk
 
 ### 0928 : Ito's Lemma
 Ito's integra  
