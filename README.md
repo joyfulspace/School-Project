@@ -21,9 +21,16 @@ Brownian motion
 Draw Random walk
 
 ### 0928 : Ito's Lemma
-Ito's integra  
+Ito's Integral  
 Ito's Lemma  
 Intro of Samuelson, Merton, Black-Scholes model
+
+### 1012 : General Ito's Lemma and Black-Scholes model
+Example2 of Ito's lemma  
+Heuristic Deviation of Ito's lemma  
+General Ito's Integral  
+General Ito's Lemma  
+The Black Scholes Model - Deviation using non-arbitrage principle
 
 ### Reference
 
