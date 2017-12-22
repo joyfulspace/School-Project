@@ -37,6 +37,8 @@ General Ito's Integral
 General Ito's Lemma  
 The Black Scholes Model - Deviation using non-arbitrage principle  
 
+### 1019 : Intro of a Perpetual American Put Option
+Intro of a perpetual American Put Option
 
 ### Reference
 
