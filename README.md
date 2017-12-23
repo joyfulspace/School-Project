@@ -109,7 +109,6 @@ General solution of Fourier transform and Laplace equation
 The Heston Model  
 The Poisson Jump  
 Levi Process  
-(수정 - 한글)
 
 
 
