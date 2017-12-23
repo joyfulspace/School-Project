@@ -25,7 +25,7 @@ Martingale
 Brownian motion   
 
 ### HW1 Random walk
-Draw Random walk  
+Draw Random walk graph  
 
 ### 0928 : Ito's Lemma
 Ito's Integral  
@@ -47,7 +47,7 @@ A Perpetual American Put Option
 Early boundary of the option  
 
 ### HW2 A Perpetual American Put Option
-Draw a perpetual American Put Option  
+Draw a perpetual American Put Option payoff graph and verify continuous at the early boundary.  
 
 ### 1116 : The Merton Model
 Lifetime portfolio selection under uncertainty the continuous-time case - Merton (1969)  
