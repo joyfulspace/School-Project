@@ -18,5 +18,5 @@ HW1. Extend to n period
 2. Dynamic programming approach
 3. Discussion
 
-HW2. Find $\pi$ using two approaches
+HW2. Find the amount of risky asset at each time using two approaches
 HW3. Extend to continuous time
