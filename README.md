@@ -2,7 +2,7 @@
 Stochastic Control in Ajou University  by Professor Koo  
 
 ----------
-### 0306 : Simpliest problem of Portfolio Selection
+### 0306 : Simplest problem of Portfolio Selection
 How much do we invest in risky asset to maximize expected utility function for one period? 
 
 1. Portfolio selection approach
